@@ -1,0 +1,537 @@
+{
+ "models": [
+  {
+   "model": "claude-opus-5",
+   "published": 87.3,
+   "proved": null,
+   "cost": 18.69,
+   "runs": 36,
+   "tasks": [
+    {
+     "task": "BianLian_Go",
+     "published": 100.0,
+     "cost": 17.25
+    },
+    {
+     "task": "BlackByte_Go",
+     "published": 100.0,
+     "cost": 21.1
+    },
+    {
+     "task": "Embargo_MS4Killer_Rust",
+     "published": 100.0,
+     "cost": 14.41
+    },
+    {
+     "task": "FinalDraft",
+     "published": 100.0,
+     "cost": 15.12
+    },
+    {
+     "task": "MIMICRAT",
+     "published": 100.0,
+     "cost": 14.92
+    },
+    {
+     "task": "Resocks_Go",
+     "published": 100.0,
+     "cost": 15.43
+    },
+    {
+     "task": "RustyClaw_Rust",
+     "published": 100.0,
+     "cost": 30.24
+    },
+    {
+     "task": "TinyShell",
+     "published": 100.0,
+     "cost": 17.51
+    },
+    {
+     "task": "SHELBYC2",
+     "published": 92.3,
+     "cost": 4.83
+    },
+    {
+     "task": "Embargo_Encryptor_Rust",
+     "published": 90.5,
+     "cost": 12.24
+    },
+    {
+     "task": "Cicada3301_Rust",
+     "published": 79.2,
+     "cost": 39.55
+    },
+    {
+     "task": "CrystalX_RAT",
+     "published": 43.3,
+     "cost": 21.64
+    }
+   ]
+  },
+  {
+   "model": "gpt-5.6-sol",
+   "published": 82.1,
+   "proved": null,
+   "cost": 2.99,
+   "runs": 36,
+   "tasks": [
+    {
+     "task": "Embargo_MS4Killer_Rust",
+     "published": 100.0,
+     "cost": 1.9
+    },
+    {
+     "task": "MIMICRAT",
+     "published": 100.0,
+     "cost": 3.03
+    },
+    {
+     "task": "Embargo_Encryptor_Rust",
+     "published": 95.2,
+     "cost": 1.85
+    },
+    {
+     "task": "RustyClaw_Rust",
+     "published": 93.3,
+     "cost": 2.26
+    },
+    {
+     "task": "FinalDraft",
+     "published": 92.3,
+     "cost": 2.59
+    },
+    {
+     "task": "SHELBYC2",
+     "published": 92.3,
+     "cost": 1.56
+    },
+    {
+     "task": "BlackByte_Go",
+     "published": 88.1,
+     "cost": 4.76
+    },
+    {
+     "task": "Cicada3301_Rust",
+     "published": 87.5,
+     "cost": 6.27
+    },
+    {
+     "task": "BianLian_Go",
+     "published": 85.7,
+     "cost": 2.04
+    },
+    {
+     "task": "TinyShell",
+     "published": 85.7,
+     "cost": 2.35
+    },
+    {
+     "task": "Resocks_Go",
+     "published": 77.8,
+     "cost": 1.64
+    },
+    {
+     "task": "CrystalX_RAT",
+     "published": 33.3,
+     "cost": 5.61
+    }
+   ]
+  },
+  {
+   "model": "kimi-k3",
+   "published": 80.2,
+   "proved": null,
+   "cost": 3.29,
+   "runs": 36,
+   "tasks": [
+    {
+     "task": "Embargo_MS4Killer_Rust",
+     "published": 100.0,
+     "cost": 2.58
+    },
+    {
+     "task": "TinyShell",
+     "published": 95.2,
+     "cost": 1.43
+    },
+    {
+     "task": "MIMICRAT",
+     "published": 94.9,
+     "cost": 1.73
+    },
+    {
+     "task": "SHELBYC2",
+     "published": 94.9,
+     "cost": 0.82
+    },
+    {
+     "task": "BlackByte_Go",
+     "published": 90.5,
+     "cost": 6.66
+    },
+    {
+     "task": "Resocks_Go",
+     "published": 88.9,
+     "cost": 1.28
+    },
+    {
+     "task": "FinalDraft",
+     "published": 87.2,
+     "cost": 2.02
+    },
+    {
+     "task": "BianLian_Go",
+     "published": 85.7,
+     "cost": 1.41
+    },
+    {
+     "task": "RustyClaw_Rust",
+     "published": 80.0,
+     "cost": 2.82
+    },
+    {
+     "task": "Cicada3301_Rust",
+     "published": 79.2,
+     "cost": 7.7
+    },
+    {
+     "task": "Embargo_Encryptor_Rust",
+     "published": 71.4,
+     "cost": 6.41
+    },
+    {
+     "task": "CrystalX_RAT",
+     "published": 43.3,
+     "cost": 4.66
+    }
+   ]
+  },
+  {
+   "model": "glm-5.2",
+   "published": 74.4,
+   "proved": null,
+   "cost": 2.18,
+   "runs": 36,
+   "tasks": [
+    {
+     "task": "FinalDraft",
+     "published": 100.0,
+     "cost": 0.82
+    },
+    {
+     "task": "Resocks_Go",
+     "published": 100.0,
+     "cost": 1.67
+    },
+    {
+     "task": "RustyClaw_Rust",
+     "published": 93.3,
+     "cost": 4.43
+    },
+    {
+     "task": "MIMICRAT",
+     "published": 92.3,
+     "cost": 1.55
+    },
+    {
+     "task": "SHELBYC2",
+     "published": 92.3,
+     "cost": 0.92
+    },
+    {
+     "task": "Cicada3301_Rust",
+     "published": 91.7,
+     "cost": 2.98
+    },
+    {
+     "task": "BianLian_Go",
+     "published": 90.5,
+     "cost": 1.94
+    },
+    {
+     "task": "Embargo_Encryptor_Rust",
+     "published": 90.5,
+     "cost": 0.91
+    },
+    {
+     "task": "Embargo_MS4Killer_Rust",
+     "published": 83.3,
+     "cost": 2.1
+    },
+    {
+     "task": "TinyShell",
+     "published": 76.2,
+     "cost": 1.59
+    },
+    {
+     "task": "CrystalX_RAT",
+     "published": 46.7,
+     "cost": 3.09
+    },
+    {
+     "task": "BlackByte_Go",
+     "published": 7.1,
+     "cost": 4.19
+    }
+   ]
+  },
+  {
+   "model": "grok-4.5",
+   "published": 69.4,
+   "proved": null,
+   "cost": 5.17,
+   "runs": 36,
+   "tasks": [
+    {
+     "task": "BianLian_Go",
+     "published": 100.0,
+     "cost": 2.62
+    },
+    {
+     "task": "Embargo_MS4Killer_Rust",
+     "published": 100.0,
+     "cost": 6.95
+    },
+    {
+     "task": "Resocks_Go",
+     "published": 100.0,
+     "cost": 1.42
+    },
+    {
+     "task": "TinyShell",
+     "published": 100.0,
+     "cost": 1.13
+    },
+    {
+     "task": "FinalDraft",
+     "published": 97.4,
+     "cost": 4.79
+    },
+    {
+     "task": "MIMICRAT",
+     "published": 97.4,
+     "cost": 1.83
+    },
+    {
+     "task": "SHELBYC2",
+     "published": 97.4,
+     "cost": 0.87
+    },
+    {
+     "task": "RustyClaw_Rust",
+     "published": 93.3,
+     "cost": 3.29
+    },
+    {
+     "task": "Embargo_Encryptor_Rust",
+     "published": 83.3,
+     "cost": 0.74
+    },
+    {
+     "task": "Cicada3301_Rust",
+     "published": 41.7,
+     "cost": 12.95
+    },
+    {
+     "task": "CrystalX_RAT",
+     "published": 21.7,
+     "cost": 10.03
+    },
+    {
+     "task": "BlackByte_Go",
+     "published": 7.1,
+     "cost": 15.44
+    }
+   ]
+  },
+  {
+   "model": "gemini-3.6-flash",
+   "published": 58.1,
+   "proved": null,
+   "cost": 3.29,
+   "runs": 36,
+   "tasks": [
+    {
+     "task": "Embargo_MS4Killer_Rust",
+     "published": 91.7,
+     "cost": 1.63
+    },
+    {
+     "task": "TinyShell",
+     "published": 90.5,
+     "cost": 1.04
+    },
+    {
+     "task": "Embargo_Encryptor_Rust",
+     "published": 85.7,
+     "cost": 2.07
+    },
+    {
+     "task": "BianLian_Go",
+     "published": 81.0,
+     "cost": 1.95
+    },
+    {
+     "task": "MIMICRAT",
+     "published": 76.9,
+     "cost": 3.25
+    },
+    {
+     "task": "SHELBYC2",
+     "published": 74.4,
+     "cost": 1.39
+    },
+    {
+     "task": "FinalDraft",
+     "published": 66.7,
+     "cost": 1.37
+    },
+    {
+     "task": "RustyClaw_Rust",
+     "published": 60.0,
+     "cost": 2.98
+    },
+    {
+     "task": "Resocks_Go",
+     "published": 55.6,
+     "cost": 3.69
+    },
+    {
+     "task": "Cicada3301_Rust",
+     "published": 33.3,
+     "cost": 8.32
+    },
+    {
+     "task": "BlackByte_Go",
+     "published": 28.6,
+     "cost": 6.93
+    },
+    {
+     "task": "CrystalX_RAT",
+     "published": 15.0,
+     "cost": 4.84
+    }
+   ]
+  },
+  {
+   "model": "qwen3.7-max",
+   "published": 41.9,
+   "proved": null,
+   "cost": 0.81,
+   "runs": 36,
+   "tasks": [
+    {
+     "task": "FinalDraft",
+     "published": 84.6,
+     "cost": 0.57
+    },
+    {
+     "task": "MIMICRAT",
+     "published": 82.1,
+     "cost": 0.47
+    },
+    {
+     "task": "BianLian_Go",
+     "published": 76.2,
+     "cost": 0.34
+    },
+    {
+     "task": "Cicada3301_Rust",
+     "published": 66.7,
+     "cost": 0.5
+    },
+    {
+     "task": "RustyClaw_Rust",
+     "published": 66.7,
+     "cost": 1.64
+    },
+    {
+     "task": "TinyShell",
+     "published": 57.1,
+     "cost": 0.88
+    },
+    {
+     "task": "SHELBYC2",
+     "published": 56.4,
+     "cost": 0.53
+    },
+    {
+     "task": "Embargo_MS4Killer_Rust",
+     "published": 50.0,
+     "cost": 0.66
+    },
+    {
+     "task": "Resocks_Go",
+     "published": 44.4,
+     "cost": 0.7
+    },
+    {
+     "task": "Embargo_Encryptor_Rust",
+     "published": 2.4,
+     "cost": 1.22
+    },
+    {
+     "task": "BlackByte_Go",
+     "published": 0.0,
+     "cost": 1.51
+    },
+    {
+     "task": "CrystalX_RAT",
+     "published": 0.0,
+     "cost": 0.72
+    }
+   ]
+  }
+ ],
+ "tasks": {
+  "BianLian_Go": {
+   "items": 7,
+   "sha256": "1fd07b8d1728e416f897bef4f1471126f9b18ef108eb952f4b75050da22e8e43"
+  },
+  "BlackByte_Go": {
+   "items": 14,
+   "sha256": "1df11bc19aa52b623bdf15380e3fded56d8eb6fb7b53a2240779864b1a6474ad"
+  },
+  "Cicada3301_Rust": {
+   "items": 8,
+   "sha256": "dd98133b825a1632879b689b864b15a66741208343bc8ba080354e0133181d69"
+  },
+  "CrystalX_RAT": {
+   "items": 20,
+   "sha256": "34b84db8f10d34f711bb242b21bdf662ee489dcd0e9c23b9cc95240d324bb094"
+  },
+  "Embargo_Encryptor_Rust": {
+   "items": 14,
+   "sha256": "ebffc9ced2dba66db9aae02c7ccd2759a36c5167df5cd4adb151b20e7eab173c"
+  },
+  "Embargo_MS4Killer_Rust": {
+   "items": 4,
+   "sha256": "ca601708a3822d4f1fbea39171c8d5e94c0b8741f35a5a2fb63cd6d71da29b1a"
+  },
+  "FinalDraft": {
+   "items": 13,
+   "sha256": "39e85de1b1121dc38a33eca97c41dbd9210124162c6d669d28480c833e059530"
+  },
+  "MIMICRAT": {
+   "items": 13,
+   "sha256": "a508d0bb583dc6e5f97b6094f8f910b5b6f2b9d5528c04e4dee62c343fce6f4b"
+  },
+  "Resocks_Go": {
+   "items": 3,
+   "sha256": "a2f8c96429914ff66662b432f9213a795856751290b5a510605212d5e6ee7638"
+  },
+  "RustyClaw_Rust": {
+   "items": 5,
+   "sha256": "0517d413beb3e124e773d7ccc1983b226d6593d1f46a81ba7e79a8b48d6242fa"
+  },
+  "SHELBYC2": {
+   "items": 13,
+   "sha256": "fb8d4c24bcfd853edb15c5c4096723b239f03255f17cec42f2d881f5f31b6025"
+  },
+  "TinyShell": {
+   "items": 7,
+   "sha256": "8e07beb854f77e90c174829bd4e01e86779d596710ad161dbc0e02a219d6227f"
+  }
+ }
+}
